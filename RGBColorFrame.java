@@ -13,7 +13,8 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-/*P11.1    Write an application with three buttons labeled “Red”, “Green”, and “Blue” that
+/*
+P11.1    Write an application with three buttons labeled “Red”, “Green”, and “Blue” that
 changes the background color of a panel in the center of the frame to red, green,
 or blue.
 P11.2    Add icons to the buttons of Exercise P11.1. Use a JButton constructor with an Icon
